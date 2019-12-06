@@ -1,14 +1,14 @@
 //
-//  Blur.h
+//  Fold.h
 //  ofxPostEffect
 //
-//  Created by 木内舜司 on 2019/12/05.
+//  Created by 木内舜司 on 2019/12/06.
 //
 
-#ifndef Blur_h
-#define Blur_h
+#ifndef Fold_h
+#define Fold_h
 
-class Blur {
+class Fold {
 public:
     void allocate(int width, int height);
     void setup();
@@ -19,8 +19,9 @@ public:
     void setupShaders();
 private:
     ofFbo target;
-    ofShader blurShader;
+    int mode;
+    ofShader foldShader;
     float weight;
 }
 
-#endif /* Blur_h */
+#endif /* Fold_h */

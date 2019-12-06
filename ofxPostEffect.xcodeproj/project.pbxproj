@@ -24,6 +24,7 @@
 		7857AF372398F91000E84D62 /* Blur.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Blur.h; sourceTree = "<group>"; };
 		7857AF382398F91C00E84D62 /* Dof.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dof.h; sourceTree = "<group>"; };
 		7857AF392398F93000E84D62 /* Glitch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Glitch.h; sourceTree = "<group>"; };
+		7857AF3C2399EDCF00E84D62 /* Fold.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fold.h; sourceTree = "<group>"; };
 		E42962AC2163EDD300A6A9E2 /* ofCamera.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ofCamera.cpp; path = ../../libs/openFrameworks/3d/ofCamera.cpp; sourceTree = SOURCE_ROOT; };
 		E42962AD2163EDD300A6A9E2 /* ofMesh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofMesh.h; path = ../../libs/openFrameworks/3d/ofMesh.h; sourceTree = SOURCE_ROOT; };
 		E42962AE2163EDD300A6A9E2 /* ofNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofNode.h; path = ../../libs/openFrameworks/3d/ofNode.h; sourceTree = SOURCE_ROOT; };
@@ -532,6 +533,7 @@
 				7857AF362398F90200E84D62 /* Bloom.h */,
 				7857AF372398F91000E84D62 /* Blur.h */,
 				7857AF382398F91C00E84D62 /* Dof.h */,
+				7857AF3C2399EDCF00E84D62 /* Fold.h */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
