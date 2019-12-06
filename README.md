@@ -12,3 +12,4 @@
 - godray
 - zoomBlur
 
+Create a method to merge all enabled post process.
